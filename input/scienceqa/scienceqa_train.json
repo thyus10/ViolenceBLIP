@@ -1,0 +1,2002 @@
+[
+    {
+        "image": "scienceqa/images/train/0/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 173, xmax: 363, ymin: 83, ymax: 170.\n",
+        "choices": [
+            "The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 173, xmax: 363, ymin: 83, ymax: 170.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 0
+    },
+    {
+        "image": "scienceqa/images/train/1/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 197, xmax: 347, ymin: 81, ymax: 165.\n",
+        "choices": [
+            "The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 197, xmax: 347, ymin: 81, ymax: 165.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 1
+    },
+    {
+        "image": "scienceqa/images/train/2/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 175, xmax: 277, ymin: 158, ymax: 289.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 175, xmax: 277, ymin: 158, ymax: 289.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 2
+    },
+    {
+        "image": "scienceqa/images/train/3/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 199, xmax: 281, ymin: 124, ymax: 332.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 199, xmax: 281, ymin: 124, ymax: 332.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 3
+    },
+    {
+        "image": "scienceqa/images/train/4/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: dancing and the coordinates in the image with 416 width and 416 height are:\nxmin: 182, xmax: 288, ymin: 120, ymax: 360.\n",
+        "choices": [
+            "The violence acts: dancing and the coordinates in the image with 416 width and 416 height are:\nxmin: 182, xmax: 288, ymin: 120, ymax: 360.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 4
+    },
+    {
+        "image": "scienceqa/images/train/5/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 152, xmax: 262, ymin: 82, ymax: 242.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 152, xmax: 262, ymin: 82, ymax: 242.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 5
+    },
+    {
+        "image": "scienceqa/images/train/6/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 154, xmax: 265, ymin: 83, ymax: 265.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 154, xmax: 265, ymin: 83, ymax: 265.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 6
+    },
+    {
+        "image": "scienceqa/images/train/7/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 203, xmax: 260, ymin: 74, ymax: 266.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 203, xmax: 260, ymin: 74, ymax: 266.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 7
+    },
+    {
+        "image": "scienceqa/images/train/8/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 153, xmax: 272, ymin: 80, ymax: 324.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 153, xmax: 272, ymin: 80, ymax: 324.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 8
+    },
+    {
+        "image": "scienceqa/images/train/9/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 169, xmax: 278, ymin: 45, ymax: 277.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 169, xmax: 278, ymin: 45, ymax: 277.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 9
+    },
+    {
+        "image": "scienceqa/images/train/10/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 179, xmax: 283, ymin: 99, ymax: 312.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 179, xmax: 283, ymin: 99, ymax: 312.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 10
+    },
+    {
+        "image": "scienceqa/images/train/11/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 190, xmax: 280, ymin: 107, ymax: 325.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 190, xmax: 280, ymin: 107, ymax: 325.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 11
+    },
+    {
+        "image": "scienceqa/images/train/12/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 171, xmax: 245, ymin: 155, ymax: 286.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 171, xmax: 245, ymin: 155, ymax: 286.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 12
+    },
+    {
+        "image": "scienceqa/images/train/13/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: dancing and the coordinates in the image with 416 width and 416 height are:\nxmin: 179, xmax: 259, ymin: 150, ymax: 239.\n",
+        "choices": [
+            "The violence acts: dancing and the coordinates in the image with 416 width and 416 height are:\nxmin: 179, xmax: 259, ymin: 150, ymax: 239.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 13
+    },
+    {
+        "image": "scienceqa/images/train/14/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 186, xmax: 245, ymin: 145, ymax: 245.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 186, xmax: 245, ymin: 145, ymax: 245.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 14
+    },
+    {
+        "image": "scienceqa/images/train/15/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 168, xmax: 223, ymin: 155, ymax: 255.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 168, xmax: 223, ymin: 155, ymax: 255.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 15
+    },
+    {
+        "image": "scienceqa/images/train/16/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 160, xmax: 213, ymin: 158, ymax: 262.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 160, xmax: 213, ymin: 158, ymax: 262.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 16
+    },
+    {
+        "image": "scienceqa/images/train/17/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 151, xmax: 199, ymin: 155, ymax: 245.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 151, xmax: 199, ymin: 155, ymax: 245.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 17
+    },
+    {
+        "image": "scienceqa/images/train/18/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 144, xmax: 209, ymin: 130, ymax: 241.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 144, xmax: 209, ymin: 130, ymax: 241.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 18
+    },
+    {
+        "image": "scienceqa/images/train/19/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 150, xmax: 200, ymin: 139, ymax: 261.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 150, xmax: 200, ymin: 139, ymax: 261.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 19
+    },
+    {
+        "image": "scienceqa/images/train/20/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 145, xmax: 203, ymin: 150, ymax: 249.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 145, xmax: 203, ymin: 150, ymax: 249.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 20
+    },
+    {
+        "image": "scienceqa/images/train/21/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 144, xmax: 196, ymin: 163, ymax: 253.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 144, xmax: 196, ymin: 163, ymax: 253.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 21
+    },
+    {
+        "image": "scienceqa/images/train/22/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 152, xmax: 194, ymin: 149, ymax: 243.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 152, xmax: 194, ymin: 149, ymax: 243.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 22
+    },
+    {
+        "image": "scienceqa/images/train/23/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 153, xmax: 208, ymin: 159, ymax: 274.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 153, xmax: 208, ymin: 159, ymax: 274.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 23
+    },
+    {
+        "image": "scienceqa/images/train/24/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 184, xmax: 266, ymin: 115, ymax: 225.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 184, xmax: 266, ymin: 115, ymax: 225.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 24
+    },
+    {
+        "image": "scienceqa/images/train/25/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 173, xmax: 252, ymin: 132, ymax: 233.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 173, xmax: 252, ymin: 132, ymax: 233.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 25
+    },
+    {
+        "image": "scienceqa/images/train/26/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 166, xmax: 238, ymin: 123, ymax: 240.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 166, xmax: 238, ymin: 123, ymax: 240.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 26
+    },
+    {
+        "image": "scienceqa/images/train/27/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 161, xmax: 234, ymin: 127, ymax: 246.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 161, xmax: 234, ymin: 127, ymax: 246.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 27
+    },
+    {
+        "image": "scienceqa/images/train/28/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 163, xmax: 227, ymin: 119, ymax: 223.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 163, xmax: 227, ymin: 119, ymax: 223.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 28
+    },
+    {
+        "image": "scienceqa/images/train/29/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 170, xmax: 228, ymin: 120, ymax: 220.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 170, xmax: 228, ymin: 120, ymax: 220.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 29
+    },
+    {
+        "image": "scienceqa/images/train/30/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 163, xmax: 274, ymin: 88, ymax: 244.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 163, xmax: 274, ymin: 88, ymax: 244.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 30
+    },
+    {
+        "image": "scienceqa/images/train/31/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 176, xmax: 231, ymin: 120, ymax: 211.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 176, xmax: 231, ymin: 120, ymax: 211.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 31
+    },
+    {
+        "image": "scienceqa/images/train/32/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 184, xmax: 240, ymin: 122, ymax: 212.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 184, xmax: 240, ymin: 122, ymax: 212.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 32
+    },
+    {
+        "image": "scienceqa/images/train/33/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 185, xmax: 233, ymin: 123, ymax: 212.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 185, xmax: 233, ymin: 123, ymax: 212.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 33
+    },
+    {
+        "image": "scienceqa/images/train/34/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 188, xmax: 228, ymin: 122, ymax: 226.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 188, xmax: 228, ymin: 122, ymax: 226.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 34
+    },
+    {
+        "image": "scienceqa/images/train/35/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 162, xmax: 271, ymin: 77, ymax: 227.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 162, xmax: 271, ymin: 77, ymax: 227.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 35
+    },
+    {
+        "image": "scienceqa/images/train/36/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 175, xmax: 270, ymin: 76, ymax: 211.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 175, xmax: 270, ymin: 76, ymax: 211.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 36
+    },
+    {
+        "image": "scienceqa/images/train/37/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 176, xmax: 280, ymin: 65, ymax: 216.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 176, xmax: 280, ymin: 65, ymax: 216.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 37
+    },
+    {
+        "image": "scienceqa/images/train/38/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 173, xmax: 270, ymin: 79, ymax: 220.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 173, xmax: 270, ymin: 79, ymax: 220.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 38
+    },
+    {
+        "image": "scienceqa/images/train/39/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 169, xmax: 262, ymin: 88, ymax: 222.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 169, xmax: 262, ymin: 88, ymax: 222.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 39
+    },
+    {
+        "image": "scienceqa/images/train/40/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 178, xmax: 278, ymin: 91, ymax: 227.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 178, xmax: 278, ymin: 91, ymax: 227.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 40
+    },
+    {
+        "image": "scienceqa/images/train/41/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 153, xmax: 260, ymin: 91, ymax: 243.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 153, xmax: 260, ymin: 91, ymax: 243.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 41
+    },
+    {
+        "image": "scienceqa/images/train/42/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 179, xmax: 257, ymin: 95, ymax: 223.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 179, xmax: 257, ymin: 95, ymax: 223.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 42
+    },
+    {
+        "image": "scienceqa/images/train/43/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 175, xmax: 247, ymin: 99, ymax: 219.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 175, xmax: 247, ymin: 99, ymax: 219.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 43
+    },
+    {
+        "image": "scienceqa/images/train/44/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 172, xmax: 247, ymin: 103, ymax: 239.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 172, xmax: 247, ymin: 103, ymax: 239.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 44
+    },
+    {
+        "image": "scienceqa/images/train/45/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 169, xmax: 249, ymin: 100, ymax: 213.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 169, xmax: 249, ymin: 100, ymax: 213.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 45
+    },
+    {
+        "image": "scienceqa/images/train/46/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 165, xmax: 259, ymin: 96, ymax: 252.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 165, xmax: 259, ymin: 96, ymax: 252.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 46
+    },
+    {
+        "image": "scienceqa/images/train/47/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: boxing and the coordinates in the image with 416 width and 416 height are:\nxmin: 186, xmax: 281, ymin: 111, ymax: 234.\n",
+        "choices": [
+            "The violence acts: boxing and the coordinates in the image with 416 width and 416 height are:\nxmin: 186, xmax: 281, ymin: 111, ymax: 234.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 47
+    },
+    {
+        "image": "scienceqa/images/train/48/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 165, xmax: 273, ymin: 91, ymax: 254.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 165, xmax: 273, ymin: 91, ymax: 254.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 48
+    },
+    {
+        "image": "scienceqa/images/train/49/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 169, xmax: 230, ymin: 107, ymax: 219.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 169, xmax: 230, ymin: 107, ymax: 219.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 49
+    },
+    {
+        "image": "scienceqa/images/train/50/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 186, xmax: 234, ymin: 103, ymax: 214.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 186, xmax: 234, ymin: 103, ymax: 214.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 50
+    },
+    {
+        "image": "scienceqa/images/train/51/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 184, xmax: 241, ymin: 95, ymax: 221.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 184, xmax: 241, ymin: 95, ymax: 221.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 51
+    },
+    {
+        "image": "scienceqa/images/train/52/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 177, xmax: 238, ymin: 93, ymax: 239.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 177, xmax: 238, ymin: 93, ymax: 239.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 52
+    },
+    {
+        "image": "scienceqa/images/train/53/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 179, xmax: 242, ymin: 106, ymax: 224.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 179, xmax: 242, ymin: 106, ymax: 224.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 53
+    },
+    {
+        "image": "scienceqa/images/train/54/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 196, xmax: 246, ymin: 86, ymax: 207.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 196, xmax: 246, ymin: 86, ymax: 207.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 54
+    },
+    {
+        "image": "scienceqa/images/train/55/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 153, xmax: 208, ymin: 117, ymax: 221.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 153, xmax: 208, ymin: 117, ymax: 221.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 55
+    },
+    {
+        "image": "scienceqa/images/train/56/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 172, xmax: 219, ymin: 121, ymax: 220.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 172, xmax: 219, ymin: 121, ymax: 220.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 56
+    },
+    {
+        "image": "scienceqa/images/train/57/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 151, xmax: 207, ymin: 118, ymax: 214.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 151, xmax: 207, ymin: 118, ymax: 214.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 57
+    },
+    {
+        "image": "scienceqa/images/train/58/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 166, xmax: 210, ymin: 122, ymax: 217.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 166, xmax: 210, ymin: 122, ymax: 217.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 58
+    },
+    {
+        "image": "scienceqa/images/train/59/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 168, xmax: 219, ymin: 111, ymax: 216.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 168, xmax: 219, ymin: 111, ymax: 216.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 59
+    },
+    {
+        "image": "scienceqa/images/train/60/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 169, xmax: 220, ymin: 117, ymax: 223.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 169, xmax: 220, ymin: 117, ymax: 223.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 60
+    },
+    {
+        "image": "scienceqa/images/train/61/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: hug and the coordinates in the image with 416 width and 416 height are:\nxmin: 173, xmax: 234, ymin: 106, ymax: 220.\n",
+        "choices": [
+            "The violence acts: hug and the coordinates in the image with 416 width and 416 height are:\nxmin: 173, xmax: 234, ymin: 106, ymax: 220.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 61
+    },
+    {
+        "image": "scienceqa/images/train/62/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 168, xmax: 224, ymin: 113, ymax: 209.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 168, xmax: 224, ymin: 113, ymax: 209.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 62
+    },
+    {
+        "image": "scienceqa/images/train/63/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 177, xmax: 228, ymin: 109, ymax: 212.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 177, xmax: 228, ymin: 109, ymax: 212.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 63
+    },
+    {
+        "image": "scienceqa/images/train/64/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 213, xmax: 356, ymin: 48, ymax: 375.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 213, xmax: 356, ymin: 48, ymax: 375.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 64
+    },
+    {
+        "image": "scienceqa/images/train/65/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 210, xmax: 347, ymin: 55, ymax: 375.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 210, xmax: 347, ymin: 55, ymax: 375.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 65
+    },
+    {
+        "image": "scienceqa/images/train/66/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 206, xmax: 346, ymin: 70, ymax: 383.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 206, xmax: 346, ymin: 70, ymax: 383.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 66
+    },
+    {
+        "image": "scienceqa/images/train/67/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 241, xmax: 343, ymin: 53, ymax: 373.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 241, xmax: 343, ymin: 53, ymax: 373.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 67
+    },
+    {
+        "image": "scienceqa/images/train/68/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 94, xmax: 309, ymin: 2, ymax: 351.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 94, xmax: 309, ymin: 2, ymax: 351.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 68
+    },
+    {
+        "image": "scienceqa/images/train/69/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 104, xmax: 295, ymin: 34, ymax: 357.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 104, xmax: 295, ymin: 34, ymax: 357.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 69
+    },
+    {
+        "image": "scienceqa/images/train/70/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 53, xmax: 299, ymin: 50, ymax: 348.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 53, xmax: 299, ymin: 50, ymax: 348.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 70
+    },
+    {
+        "image": "scienceqa/images/train/71/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 182, xmax: 304, ymin: 74, ymax: 257.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 182, xmax: 304, ymin: 74, ymax: 257.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 71
+    },
+    {
+        "image": "scienceqa/images/train/72/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 222, xmax: 312, ymin: 106, ymax: 295.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 222, xmax: 312, ymin: 106, ymax: 295.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 72
+    },
+    {
+        "image": "scienceqa/images/train/73/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 249, xmax: 345, ymin: 22, ymax: 176.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 249, xmax: 345, ymin: 22, ymax: 176.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 73
+    },
+    {
+        "image": "scienceqa/images/train/74/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 36, xmax: 203, ymin: 43, ymax: 234.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 36, xmax: 203, ymin: 43, ymax: 234.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 74
+    },
+    {
+        "image": "scienceqa/images/train/75/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 236, xmax: 370, ymin: 61, ymax: 201.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 236, xmax: 370, ymin: 61, ymax: 201.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 75
+    },
+    {
+        "image": "scienceqa/images/train/76/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 247, xmax: 365, ymin: 58, ymax: 206.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 247, xmax: 365, ymin: 58, ymax: 206.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 76
+    },
+    {
+        "image": "scienceqa/images/train/77/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 232, xmax: 370, ymin: 83, ymax: 213.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 232, xmax: 370, ymin: 83, ymax: 213.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 77
+    },
+    {
+        "image": "scienceqa/images/train/78/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 195, xmax: 384, ymin: 75, ymax: 236.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 195, xmax: 384, ymin: 75, ymax: 236.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 78
+    },
+    {
+        "image": "scienceqa/images/train/79/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 196, xmax: 354, ymin: 75, ymax: 208.\n",
+        "choices": [
+            "The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 196, xmax: 354, ymin: 75, ymax: 208.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 79
+    },
+    {
+        "image": "scienceqa/images/train/80/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 190, xmax: 343, ymin: 84, ymax: 221.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 190, xmax: 343, ymin: 84, ymax: 221.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 80
+    },
+    {
+        "image": "scienceqa/images/train/81/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 192, xmax: 353, ymin: 104, ymax: 250.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 192, xmax: 353, ymin: 104, ymax: 250.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 81
+    },
+    {
+        "image": "scienceqa/images/train/82/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 163, xmax: 351, ymin: 82, ymax: 258.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 163, xmax: 351, ymin: 82, ymax: 258.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 82
+    },
+    {
+        "image": "scienceqa/images/train/83/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 128, xmax: 352, ymin: 85, ymax: 245.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 128, xmax: 352, ymin: 85, ymax: 245.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 83
+    },
+    {
+        "image": "scienceqa/images/train/84/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 166, xmax: 356, ymin: 74, ymax: 243.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 166, xmax: 356, ymin: 74, ymax: 243.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 84
+    },
+    {
+        "image": "scienceqa/images/train/85/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 170, xmax: 355, ymin: 69, ymax: 241.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 170, xmax: 355, ymin: 69, ymax: 241.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 85
+    },
+    {
+        "image": "scienceqa/images/train/86/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 186, xmax: 384, ymin: 62, ymax: 244.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 186, xmax: 384, ymin: 62, ymax: 244.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 86
+    },
+    {
+        "image": "scienceqa/images/train/87/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 269, xmax: 395, ymin: 65, ymax: 236.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 269, xmax: 395, ymin: 65, ymax: 236.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 87
+    },
+    {
+        "image": "scienceqa/images/train/88/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 247, xmax: 382, ymin: 71, ymax: 243.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 247, xmax: 382, ymin: 71, ymax: 243.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 88
+    },
+    {
+        "image": "scienceqa/images/train/89/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 258, xmax: 374, ymin: 62, ymax: 268.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 258, xmax: 374, ymin: 62, ymax: 268.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 89
+    },
+    {
+        "image": "scienceqa/images/train/90/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 262, xmax: 365, ymin: 69, ymax: 273.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 262, xmax: 365, ymin: 69, ymax: 273.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 90
+    },
+    {
+        "image": "scienceqa/images/train/91/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 39, xmax: 228, ymin: 78, ymax: 284.\nxmin: 286, xmax: 381, ymin: 21, ymax: 189.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 39, xmax: 228, ymin: 78, ymax: 284.\nxmin: 286, xmax: 381, ymin: 21, ymax: 189.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 91
+    },
+    {
+        "image": "scienceqa/images/train/92/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 280, xmax: 390, ymin: 21, ymax: 203.\nxmin: 23, xmax: 233, ymin: 74, ymax: 278.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 280, xmax: 390, ymin: 21, ymax: 203.\nxmin: 23, xmax: 233, ymin: 74, ymax: 278.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 92
+    },
+    {
+        "image": "scienceqa/images/train/93/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 276, xmax: 394, ymin: 38, ymax: 190.\nxmin: 51, xmax: 232, ymin: 68, ymax: 269.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 276, xmax: 394, ymin: 38, ymax: 190.\nxmin: 51, xmax: 232, ymin: 68, ymax: 269.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 93
+    },
+    {
+        "image": "scienceqa/images/train/94/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 65, xmax: 227, ymin: 36, ymax: 258.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 65, xmax: 227, ymin: 36, ymax: 258.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 94
+    },
+    {
+        "image": "scienceqa/images/train/95/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 103, xmax: 217, ymin: 70, ymax: 272.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 103, xmax: 217, ymin: 70, ymax: 272.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 95
+    },
+    {
+        "image": "scienceqa/images/train/96/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 108, xmax: 234, ymin: 61, ymax: 272.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 108, xmax: 234, ymin: 61, ymax: 272.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 96
+    },
+    {
+        "image": "scienceqa/images/train/97/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 104, xmax: 252, ymin: 78, ymax: 264.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 104, xmax: 252, ymin: 78, ymax: 264.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 97
+    },
+    {
+        "image": "scienceqa/images/train/98/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 241, xmax: 397, ymin: 37, ymax: 234.\nxmin: 125, xmax: 276, ymin: 100, ymax: 263.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 241, xmax: 397, ymin: 37, ymax: 234.\nxmin: 125, xmax: 276, ymin: 100, ymax: 263.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 98
+    },
+    {
+        "image": "scienceqa/images/train/99/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 136, xmax: 334, ymin: 123, ymax: 368.\n",
+        "choices": [
+            "The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 136, xmax: 334, ymin: 123, ymax: 368.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 99
+    },
+    {
+        "image": "scienceqa/images/train/100/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 93, xmax: 298, ymin: 100, ymax: 350.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 93, xmax: 298, ymin: 100, ymax: 350.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 100
+    },
+    {
+        "image": "scienceqa/images/train/101/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 139, xmax: 326, ymin: 76, ymax: 254.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 139, xmax: 326, ymin: 76, ymax: 254.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 101
+    },
+    {
+        "image": "scienceqa/images/train/102/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 135, xmax: 326, ymin: 86, ymax: 258.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 135, xmax: 326, ymin: 86, ymax: 258.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 102
+    },
+    {
+        "image": "scienceqa/images/train/103/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 136, xmax: 321, ymin: 95, ymax: 266.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 136, xmax: 321, ymin: 95, ymax: 266.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 103
+    },
+    {
+        "image": "scienceqa/images/train/104/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 137, xmax: 313, ymin: 105, ymax: 263.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 137, xmax: 313, ymin: 105, ymax: 263.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 104
+    },
+    {
+        "image": "scienceqa/images/train/105/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 138, xmax: 299, ymin: 72, ymax: 305.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 138, xmax: 299, ymin: 72, ymax: 305.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 105
+    },
+    {
+        "image": "scienceqa/images/train/106/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 120, xmax: 285, ymin: 77, ymax: 319.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 120, xmax: 285, ymin: 77, ymax: 319.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 106
+    },
+    {
+        "image": "scienceqa/images/train/107/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 44, xmax: 266, ymin: 77, ymax: 351.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 44, xmax: 266, ymin: 77, ymax: 351.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 107
+    },
+    {
+        "image": "scienceqa/images/train/108/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 76, xmax: 280, ymin: 52, ymax: 310.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 76, xmax: 280, ymin: 52, ymax: 310.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 108
+    },
+    {
+        "image": "scienceqa/images/train/109/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 139, xmax: 299, ymin: 140, ymax: 310.\n",
+        "choices": [
+            "The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 139, xmax: 299, ymin: 140, ymax: 310.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 109
+    },
+    {
+        "image": "scienceqa/images/train/110/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 125, xmax: 288, ymin: 99, ymax: 302.\n",
+        "choices": [
+            "The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 125, xmax: 288, ymin: 99, ymax: 302.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 110
+    },
+    {
+        "image": "scienceqa/images/train/111/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 127, xmax: 372, ymin: 55, ymax: 358.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 127, xmax: 372, ymin: 55, ymax: 358.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 111
+    },
+    {
+        "image": "scienceqa/images/train/112/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 178, xmax: 233, ymin: 71, ymax: 188.\nxmin: 230, xmax: 300, ymin: 150, ymax: 361.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 178, xmax: 233, ymin: 71, ymax: 188.\nxmin: 230, xmax: 300, ymin: 150, ymax: 361.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 112
+    },
+    {
+        "image": "scienceqa/images/train/113/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 223, xmax: 322, ymin: 55, ymax: 245.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 223, xmax: 322, ymin: 55, ymax: 245.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 113
+    },
+    {
+        "image": "scienceqa/images/train/114/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 223, xmax: 319, ymin: 55, ymax: 243.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 223, xmax: 319, ymin: 55, ymax: 243.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 114
+    },
+    {
+        "image": "scienceqa/images/train/115/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and kicking and the coordinates in the image with 416 width and 416 height are:\nxmin: 205, xmax: 271, ymin: 48, ymax: 222.\n",
+        "choices": [
+            "The violence acts: punching and kicking and the coordinates in the image with 416 width and 416 height are:\nxmin: 205, xmax: 271, ymin: 48, ymax: 222.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 115
+    },
+    {
+        "image": "scienceqa/images/train/116/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 205, xmax: 272, ymin: 56, ymax: 208.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 205, xmax: 272, ymin: 56, ymax: 208.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 116
+    },
+    {
+        "image": "scienceqa/images/train/117/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and kicking and the coordinates in the image with 416 width and 416 height are:\nxmin: 213, xmax: 277, ymin: 53, ymax: 213.\n",
+        "choices": [
+            "The violence acts: punching and kicking and the coordinates in the image with 416 width and 416 height are:\nxmin: 213, xmax: 277, ymin: 53, ymax: 213.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 117
+    },
+    {
+        "image": "scienceqa/images/train/118/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 220, xmax: 289, ymin: 56, ymax: 222.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 220, xmax: 289, ymin: 56, ymax: 222.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 118
+    },
+    {
+        "image": "scienceqa/images/train/119/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and kicking and the coordinates in the image with 416 width and 416 height are:\nxmin: 217, xmax: 278, ymin: 47, ymax: 215.\n",
+        "choices": [
+            "The violence acts: punching and kicking and the coordinates in the image with 416 width and 416 height are:\nxmin: 217, xmax: 278, ymin: 47, ymax: 215.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 119
+    },
+    {
+        "image": "scienceqa/images/train/120/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 218, xmax: 298, ymin: 52, ymax: 226.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 218, xmax: 298, ymin: 52, ymax: 226.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 120
+    },
+    {
+        "image": "scienceqa/images/train/121/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 211, xmax: 309, ymin: 55, ymax: 223.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 211, xmax: 309, ymin: 55, ymax: 223.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 121
+    },
+    {
+        "image": "scienceqa/images/train/122/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and kicking and the coordinates in the image with 416 width and 416 height are:\nxmin: 209, xmax: 313, ymin: 62, ymax: 230.\n",
+        "choices": [
+            "The violence acts: punching and kicking and the coordinates in the image with 416 width and 416 height are:\nxmin: 209, xmax: 313, ymin: 62, ymax: 230.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 122
+    },
+    {
+        "image": "scienceqa/images/train/123/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fistfight and the coordinates in the image with 416 width and 416 height are:\nxmin: 205, xmax: 298, ymin: 56, ymax: 227.\n",
+        "choices": [
+            "The violence acts: fistfight and the coordinates in the image with 416 width and 416 height are:\nxmin: 205, xmax: 298, ymin: 56, ymax: 227.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 123
+    },
+    {
+        "image": "scienceqa/images/train/124/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fistfight and the coordinates in the image with 416 width and 416 height are:\nxmin: 216, xmax: 313, ymin: 73, ymax: 239.\n",
+        "choices": [
+            "The violence acts: fistfight and the coordinates in the image with 416 width and 416 height are:\nxmin: 216, xmax: 313, ymin: 73, ymax: 239.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 124
+    },
+    {
+        "image": "scienceqa/images/train/125/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 200, xmax: 299, ymin: 60, ymax: 231.\n",
+        "choices": [
+            "The violence acts: beating and the coordinates in the image with 416 width and 416 height are:\nxmin: 200, xmax: 299, ymin: 60, ymax: 231.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 125
+    },
+    {
+        "image": "scienceqa/images/train/126/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fight and the coordinates in the image with 416 width and 416 height are:\nxmin: 220, xmax: 297, ymin: 62, ymax: 223.\n",
+        "choices": [
+            "The violence acts: fight and the coordinates in the image with 416 width and 416 height are:\nxmin: 220, xmax: 297, ymin: 62, ymax: 223.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 126
+    },
+    {
+        "image": "scienceqa/images/train/127/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 128, xmax: 233, ymin: 83, ymax: 253.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 128, xmax: 233, ymin: 83, ymax: 253.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 127
+    },
+    {
+        "image": "scienceqa/images/train/128/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and kicking and the coordinates in the image with 416 width and 416 height are:\nxmin: 185, xmax: 293, ymin: 61, ymax: 199.\n",
+        "choices": [
+            "The violence acts: punching and kicking and the coordinates in the image with 416 width and 416 height are:\nxmin: 185, xmax: 293, ymin: 61, ymax: 199.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 128
+    },
+    {
+        "image": "scienceqa/images/train/129/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 190, xmax: 306, ymin: 54, ymax: 196.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 190, xmax: 306, ymin: 54, ymax: 196.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 129
+    },
+    {
+        "image": "scienceqa/images/train/130/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and kicking and the coordinates in the image with 416 width and 416 height are:\nxmin: 179, xmax: 293, ymin: 52, ymax: 221.\n",
+        "choices": [
+            "The violence acts: punching and kicking and the coordinates in the image with 416 width and 416 height are:\nxmin: 179, xmax: 293, ymin: 52, ymax: 221.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 130
+    },
+    {
+        "image": "scienceqa/images/train/131/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 64, xmax: 201, ymin: 143, ymax: 308.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 64, xmax: 201, ymin: 143, ymax: 308.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 131
+    },
+    {
+        "image": "scienceqa/images/train/132/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 197, xmax: 293, ymin: 21, ymax: 209.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 197, xmax: 293, ymin: 21, ymax: 209.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 132
+    },
+    {
+        "image": "scienceqa/images/train/133/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 99, xmax: 223, ymin: 45, ymax: 208.\nxmin: 124, xmax: 269, ymin: 163, ymax: 348.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 99, xmax: 223, ymin: 45, ymax: 208.\nxmin: 124, xmax: 269, ymin: 163, ymax: 348.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 133
+    },
+    {
+        "image": "scienceqa/images/train/134/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 63, xmax: 174, ymin: 57, ymax: 247.\nxmin: 118, xmax: 299, ymin: 189, ymax: 334.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 63, xmax: 174, ymin: 57, ymax: 247.\nxmin: 118, xmax: 299, ymin: 189, ymax: 334.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 134
+    },
+    {
+        "image": "scienceqa/images/train/135/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 81, xmax: 171, ymin: 127, ymax: 307.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 81, xmax: 171, ymin: 127, ymax: 307.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 135
+    },
+    {
+        "image": "scienceqa/images/train/136/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 64, xmax: 181, ymin: 136, ymax: 311.\nxmin: 193, xmax: 274, ymin: 212, ymax: 391.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 64, xmax: 181, ymin: 136, ymax: 311.\nxmin: 193, xmax: 274, ymin: 212, ymax: 391.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 136
+    },
+    {
+        "image": "scienceqa/images/train/137/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 127, xmax: 225, ymin: 139, ymax: 334.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 127, xmax: 225, ymin: 139, ymax: 334.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 137
+    },
+    {
+        "image": "scienceqa/images/train/138/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 122, xmax: 203, ymin: 97, ymax: 302.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 122, xmax: 203, ymin: 97, ymax: 302.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 138
+    },
+    {
+        "image": "scienceqa/images/train/139/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 149, xmax: 215, ymin: 105, ymax: 297.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 149, xmax: 215, ymin: 105, ymax: 297.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 139
+    },
+    {
+        "image": "scienceqa/images/train/140/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 156, xmax: 223, ymin: 72, ymax: 298.\nxmin: 72, xmax: 197, ymin: 132, ymax: 317.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 156, xmax: 223, ymin: 72, ymax: 298.\nxmin: 72, xmax: 197, ymin: 132, ymax: 317.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 140
+    },
+    {
+        "image": "scienceqa/images/train/141/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 110, xmax: 207, ymin: 138, ymax: 331.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 110, xmax: 207, ymin: 138, ymax: 331.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 141
+    },
+    {
+        "image": "scienceqa/images/train/142/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 118, xmax: 201, ymin: 131, ymax: 328.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 118, xmax: 201, ymin: 131, ymax: 328.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 142
+    },
+    {
+        "image": "scienceqa/images/train/143/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 50, xmax: 185, ymin: 116, ymax: 246.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 50, xmax: 185, ymin: 116, ymax: 246.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 143
+    },
+    {
+        "image": "scienceqa/images/train/144/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 60, xmax: 180, ymin: 85, ymax: 233.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 60, xmax: 180, ymin: 85, ymax: 233.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 144
+    },
+    {
+        "image": "scienceqa/images/train/145/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 81, xmax: 201, ymin: 105, ymax: 245.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 81, xmax: 201, ymin: 105, ymax: 245.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 145
+    },
+    {
+        "image": "scienceqa/images/train/146/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 154, xmax: 243, ymin: 159, ymax: 384.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 154, xmax: 243, ymin: 159, ymax: 384.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 146
+    },
+    {
+        "image": "scienceqa/images/train/147/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 139, xmax: 265, ymin: 169, ymax: 394.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 139, xmax: 265, ymin: 169, ymax: 394.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 147
+    },
+    {
+        "image": "scienceqa/images/train/148/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 54, xmax: 209, ymin: 49, ymax: 286.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 54, xmax: 209, ymin: 49, ymax: 286.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 148
+    },
+    {
+        "image": "scienceqa/images/train/149/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 164, xmax: 276, ymin: 96, ymax: 330.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 164, xmax: 276, ymin: 96, ymax: 330.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 149
+    },
+    {
+        "image": "scienceqa/images/train/150/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 163, xmax: 294, ymin: 104, ymax: 321.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 163, xmax: 294, ymin: 104, ymax: 321.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 150
+    },
+    {
+        "image": "scienceqa/images/train/151/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 148, xmax: 305, ymin: 102, ymax: 340.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 148, xmax: 305, ymin: 102, ymax: 340.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 151
+    },
+    {
+        "image": "scienceqa/images/train/152/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 159, xmax: 308, ymin: 103, ymax: 297.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 159, xmax: 308, ymin: 103, ymax: 297.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 152
+    },
+    {
+        "image": "scienceqa/images/train/153/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 116, xmax: 291, ymin: 84, ymax: 416.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 116, xmax: 291, ymin: 84, ymax: 416.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 153
+    },
+    {
+        "image": "scienceqa/images/train/154/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 115, xmax: 257, ymin: 104, ymax: 416.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 115, xmax: 257, ymin: 104, ymax: 416.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 154
+    },
+    {
+        "image": "scienceqa/images/train/155/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 108, xmax: 268, ymin: 94, ymax: 416.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 108, xmax: 268, ymin: 94, ymax: 416.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 155
+    },
+    {
+        "image": "scienceqa/images/train/156/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 157, xmax: 281, ymin: 98, ymax: 417.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 157, xmax: 281, ymin: 98, ymax: 417.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 156
+    },
+    {
+        "image": "scienceqa/images/train/157/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 138, xmax: 320, ymin: 74, ymax: 416.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 138, xmax: 320, ymin: 74, ymax: 416.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 157
+    },
+    {
+        "image": "scienceqa/images/train/158/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 148, xmax: 326, ymin: 80, ymax: 416.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 148, xmax: 326, ymin: 80, ymax: 416.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 158
+    },
+    {
+        "image": "scienceqa/images/train/159/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 173, xmax: 326, ymin: 88, ymax: 416.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 173, xmax: 326, ymin: 88, ymax: 416.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 159
+    },
+    {
+        "image": "scienceqa/images/train/160/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 1, xmax: 240, ymin: 54, ymax: 416.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 1, xmax: 240, ymin: 54, ymax: 416.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 160
+    },
+    {
+        "image": "scienceqa/images/train/161/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 181, xmax: 347, ymin: 67, ymax: 414.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 181, xmax: 347, ymin: 67, ymax: 414.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 161
+    },
+    {
+        "image": "scienceqa/images/train/162/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 213, xmax: 360, ymin: 38, ymax: 296.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 213, xmax: 360, ymin: 38, ymax: 296.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 162
+    },
+    {
+        "image": "scienceqa/images/train/163/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 207, xmax: 382, ymin: 42, ymax: 315.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 207, xmax: 382, ymin: 42, ymax: 315.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 163
+    },
+    {
+        "image": "scienceqa/images/train/164/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 203, xmax: 356, ymin: 53, ymax: 342.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 203, xmax: 356, ymin: 53, ymax: 342.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 164
+    },
+    {
+        "image": "scienceqa/images/train/165/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 198, xmax: 349, ymin: 47, ymax: 307.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 198, xmax: 349, ymin: 47, ymax: 307.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 165
+    },
+    {
+        "image": "scienceqa/images/train/166/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 113, xmax: 395, ymin: 133, ymax: 376.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 113, xmax: 395, ymin: 133, ymax: 376.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 166
+    },
+    {
+        "image": "scienceqa/images/train/167/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 126, xmax: 299, ymin: 166, ymax: 375.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 126, xmax: 299, ymin: 166, ymax: 375.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 167
+    },
+    {
+        "image": "scienceqa/images/train/168/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 84, xmax: 255, ymin: 158, ymax: 364.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 84, xmax: 255, ymin: 158, ymax: 364.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 168
+    },
+    {
+        "image": "scienceqa/images/train/169/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 72, xmax: 225, ymin: 159, ymax: 364.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 72, xmax: 225, ymin: 159, ymax: 364.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 169
+    },
+    {
+        "image": "scienceqa/images/train/170/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 53, xmax: 219, ymin: 130, ymax: 356.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 53, xmax: 219, ymin: 130, ymax: 356.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 170
+    },
+    {
+        "image": "scienceqa/images/train/171/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 80, xmax: 272, ymin: 119, ymax: 375.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 80, xmax: 272, ymin: 119, ymax: 375.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 171
+    },
+    {
+        "image": "scienceqa/images/train/172/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 100, xmax: 311, ymin: 141, ymax: 393.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 100, xmax: 311, ymin: 141, ymax: 393.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 172
+    },
+    {
+        "image": "scienceqa/images/train/173/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 94, xmax: 280, ymin: 147, ymax: 361.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 94, xmax: 280, ymin: 147, ymax: 361.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 173
+    },
+    {
+        "image": "scienceqa/images/train/174/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 118, xmax: 301, ymin: 101, ymax: 374.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 118, xmax: 301, ymin: 101, ymax: 374.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 174
+    },
+    {
+        "image": "scienceqa/images/train/175/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: Two women are fighting each other in front of a wall with graffiti on it. and the coordinates in the image with 416 width and 416 height are:\nxmin: 63, xmax: 237, ymin: 17, ymax: 351.\n",
+        "choices": [
+            "The violence acts: Two women are fighting each other in front of a wall with graffiti on it. and the coordinates in the image with 416 width and 416 height are:\nxmin: 63, xmax: 237, ymin: 17, ymax: 351.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 175
+    },
+    {
+        "image": "scienceqa/images/train/176/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 59, xmax: 322, ymin: 70, ymax: 258.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 59, xmax: 322, ymin: 70, ymax: 258.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 176
+    },
+    {
+        "image": "scienceqa/images/train/177/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 52, xmax: 314, ymin: 91, ymax: 268.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 52, xmax: 314, ymin: 91, ymax: 268.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 177
+    },
+    {
+        "image": "scienceqa/images/train/178/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 52, xmax: 327, ymin: 78, ymax: 283.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 52, xmax: 327, ymin: 78, ymax: 283.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 178
+    },
+    {
+        "image": "scienceqa/images/train/179/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 18, xmax: 416, ymin: 13, ymax: 275.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 18, xmax: 416, ymin: 13, ymax: 275.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 179
+    },
+    {
+        "image": "scienceqa/images/train/180/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 114, xmax: 416, ymin: 65, ymax: 293.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 114, xmax: 416, ymin: 65, ymax: 293.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 180
+    },
+    {
+        "image": "scienceqa/images/train/181/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 117, xmax: 404, ymin: 58, ymax: 286.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 117, xmax: 404, ymin: 58, ymax: 286.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 181
+    },
+    {
+        "image": "scienceqa/images/train/182/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 90, xmax: 369, ymin: 69, ymax: 283.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 90, xmax: 369, ymin: 69, ymax: 283.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 182
+    },
+    {
+        "image": "scienceqa/images/train/183/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 1, xmax: 370, ymin: 73, ymax: 277.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 1, xmax: 370, ymin: 73, ymax: 277.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 183
+    },
+    {
+        "image": "scienceqa/images/train/184/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 6, xmax: 289, ymin: 66, ymax: 236.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 6, xmax: 289, ymin: 66, ymax: 236.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 184
+    },
+    {
+        "image": "scienceqa/images/train/185/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 81, xmax: 373, ymin: 46, ymax: 203.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 81, xmax: 373, ymin: 46, ymax: 203.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 185
+    },
+    {
+        "image": "scienceqa/images/train/186/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 108, xmax: 401, ymin: 82, ymax: 263.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 108, xmax: 401, ymin: 82, ymax: 263.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 186
+    },
+    {
+        "image": "scienceqa/images/train/187/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 107, xmax: 356, ymin: 55, ymax: 278.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 107, xmax: 356, ymin: 55, ymax: 278.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 187
+    },
+    {
+        "image": "scienceqa/images/train/188/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 164, xmax: 326, ymin: 1, ymax: 252.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 164, xmax: 326, ymin: 1, ymax: 252.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 188
+    },
+    {
+        "image": "scienceqa/images/train/189/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 186, xmax: 319, ymin: 1, ymax: 241.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 186, xmax: 319, ymin: 1, ymax: 241.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 189
+    },
+    {
+        "image": "scienceqa/images/train/190/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 202, xmax: 330, ymin: 2, ymax: 265.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 202, xmax: 330, ymin: 2, ymax: 265.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 190
+    },
+    {
+        "image": "scienceqa/images/train/191/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 156, xmax: 280, ymin: 12, ymax: 285.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 156, xmax: 280, ymin: 12, ymax: 285.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 191
+    },
+    {
+        "image": "scienceqa/images/train/192/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 117, xmax: 264, ymin: 29, ymax: 302.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 117, xmax: 264, ymin: 29, ymax: 302.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 192
+    },
+    {
+        "image": "scienceqa/images/train/193/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 171, xmax: 249, ymin: 89, ymax: 243.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 171, xmax: 249, ymin: 89, ymax: 243.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 193
+    },
+    {
+        "image": "scienceqa/images/train/194/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 168, xmax: 245, ymin: 101, ymax: 262.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 168, xmax: 245, ymin: 101, ymax: 262.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 194
+    },
+    {
+        "image": "scienceqa/images/train/195/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 127, xmax: 222, ymin: 69, ymax: 276.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 127, xmax: 222, ymin: 69, ymax: 276.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 195
+    },
+    {
+        "image": "scienceqa/images/train/196/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 92, xmax: 245, ymin: 19, ymax: 222.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 92, xmax: 245, ymin: 19, ymax: 222.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 196
+    },
+    {
+        "image": "scienceqa/images/train/197/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 47, xmax: 159, ymin: 28, ymax: 315.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 47, xmax: 159, ymin: 28, ymax: 315.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 197
+    },
+    {
+        "image": "scienceqa/images/train/198/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 54, xmax: 149, ymin: 30, ymax: 289.\n",
+        "choices": [
+            "The violence acts: punching and the coordinates in the image with 416 width and 416 height are:\nxmin: 54, xmax: 149, ymin: 30, ymax: 289.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 198
+    },
+    {
+        "image": "scienceqa/images/train/199/image.png",
+        "question": "What are the violence acts and their the coordinates in the image with 416 width and 416 height?",
+        "answer": "(a) The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 156, xmax: 248, ymin: 105, ymax: 311.\n",
+        "choices": [
+            "The violence acts: fighting and the coordinates in the image with 416 width and 416 height are:\nxmin: 156, xmax: 248, ymin: 105, ymax: 311.\n"
+        ],
+        "context": "Violence acts are in the image with 416 width and 416 height.",
+        "question_id": 199
+    }
+]
